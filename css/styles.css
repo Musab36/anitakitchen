@@ -1,6 +1,5 @@
 #logo {
   text-align: center;
-  border: 2px solid white;
   background-image: url(../assets/backgrounds/landing.jpg);
   color: white;
   font-weight: bold;
@@ -24,9 +23,31 @@ h3 {
   float: left;
   margin-left:150px;
   margin-top: 50px;
-  border: 5px solid black;
+  border: 15px solid #E7DAD5;
 }
 .food {
   margin: 40px;
   margin-left: 0px;
+}
+.drinks {
+  margin-top: 40px;
+  margin-left: 40px;
+}
+h5 {
+  margin-left: 500px;
+}
+.delic {
+  margin-left: 350px;
+}
+.btn {
+  color: red;
+  margin-left: 20px;
+  border: 1px solid red;
+}
+.btn2 {
+  color: red;
+  text-align: center;
+  margin-left: 450px;
+  border: 1px solid red;
+  width: 102px;
 }
