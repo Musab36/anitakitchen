@@ -1,0 +1,32 @@
+#logo {
+  text-align: center;
+  border: 2px solid white;
+  background-image: url(../assets/backgrounds/landing.jpg);
+  color: white;
+  font-weight: bold;
+}
+h2 {
+  width: 200px;
+  padding: 10px;
+}
+h3 {
+  background-color: #EB5315;
+  width: 277px;
+  padding: 45px;
+}
+.party {
+  color: white;
+}
+.img {
+  float: right;
+}
+.img2 {
+  float: left;
+  margin-left:150px;
+  margin-top: 50px;
+  border: 5px solid black;
+}
+.food {
+  margin: 40px;
+  margin-left: 0px;
+}
