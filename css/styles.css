@@ -1,68 +1,3 @@
-/*#logo {
-  text-align: center;
-  background-image: url(../assets/backgrounds/landing.jpg);
-  color: white;
-  font-weight: bold;
-}
-h2 {
-  width: 200px;
-  padding: 10px;
-}
-h3 {
-  background-color: #EB5315;
-  width: 277px;
-  padding: 45px;
-}
-.party {
-  color: white;
-}
-.img {
-  float: right;
-}
-.img2 {
-  float: left;
-  margin-left:150px;
-  margin-top: 50px;
-  border: 15px solid #E7DAD5;
-}
-.food {
-  margin: 40px;
-  margin-left: 0px;
-}
-.drinks {
-  margin-top: 80px;
-  margin-left: 40px;
-}
-h5 {
-  margin-left: 500px;
-}
-.delic {
-  margin-left: 350px;
-}
-.btn {
-  color: red;
-  margin-left: 20px;
-  border: 1px solid red;
-}
-.btn2 {
-  color: red;
-  text-align: center;
-  margin-left: 450px;
-  border: 1px solid red;
-  width: 102px;
-}
-.img3 {
-  border: 5px solid #E7DAD5;
-  margin-right: 140px;
-  margin-top: 70px;
-}
-.bg {
-background-image: url(../assets/backgrounds/foodsBg.jpg);
-margin-top: 100px;
-text-align: center;
-}
-*/
-
 #logo {
   text-align: center;
   background-image: url(../assets/backgrounds/landing.jpg);
@@ -94,7 +29,7 @@ text-align: center;
 }
 
 .foodtop {
-  padding-right: 0px; 
+  padding-right: 0px;
   padding-left: 0px;
   height: 166px;
   text-align: center;
@@ -128,7 +63,6 @@ text-align: center;
 }
 
 .img2 {
-  /*float: left;*/
   margin-left:150px;
   margin-top: 50px;
   border: 15px solid #E7DAD5;
@@ -178,11 +112,6 @@ h2 {
   width: 200px;
   padding: 10px;
 }
-/*h3 {
-  background-color: #EB5315;
-  width: 277px;
-  padding: 45px;
-}*/
 h5 {
   margin-left: 500px;
 }
@@ -205,12 +134,6 @@ h5 {
 
 #image-overlay {
   background: rgba(218, 220, 222, 0.82);
-  /*overflow: hidden;
-  height: 100%;
-  z-index: 2;
-  font-size: 35px;
-  text-align: center;
-  font-family: fantasy;*/
 }
 
 .grey-bg {
@@ -219,7 +142,7 @@ h5 {
 }
 
 .zero-padding {
-  padding-right: 0px; 
+  padding-right: 0px;
   padding-left: 0px;
 }
 
