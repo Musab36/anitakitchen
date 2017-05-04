@@ -1,4 +1,4 @@
-#logo {
+/*#logo {
   text-align: center;
   background-image: url(../assets/backgrounds/landing.jpg);
   color: white;
@@ -60,4 +60,220 @@ h5 {
 background-image: url(../assets/backgrounds/foodsBg.jpg);
 margin-top: 100px;
 text-align: center;
+}
+*/
+
+#logo {
+  text-align: center;
+  background-image: url(../assets/backgrounds/landing.jpg);
+  color: white;
+  font-weight: bold;
+  height: 500px;
+}
+
+#menu-image {
+  margin-top: 3%;
+}
+
+.menu-desc {
+  font-size: 40px;
+  font-family: fantasy;
+  font-weight: normal;
+}
+
+.fantasy {
+  font-family: fantasy;
+}
+
+.cursive {
+  font-family: cursive;
+}
+
+#right-price {
+  font-weight: bold;
+}
+
+.foodtop {
+  padding-right: 0px; 
+  padding-left: 0px;
+  height: 166px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+
+.foodnames {
+  margin-top: 15%;
+  font-family: fantasy;
+}
+
+.dinner {
+  background-image: url(../assets/foodtop/dinner.jpg);
+}
+
+.breakfast {
+  background-image: url(../assets/foodtop/breakfast.jpg);
+}
+
+.lunch {
+  background-image: url(../assets/foodtop/lunch.jpg);
+}
+
+.foodname {
+  font-size: 35px;
+}
+
+#party-time {
+  background-color: #E04C32;
+}
+
+.img2 {
+  /*float: left;*/
+  margin-left:150px;
+  margin-top: 50px;
+  border: 15px solid #E7DAD5;
+}
+
+.food {
+  margin: 40px;
+  margin-left: 0px;
+}
+
+.btn {
+  color: red;
+  margin-left: 20px;
+  border: 1px solid red;
+}
+.btn2 {
+  color: red;
+  text-align: center;
+  margin-left: 450px;
+  border: 1px solid red;
+  width: 102px;
+}
+.img3 {
+  border: 5px solid #E7DAD5;
+  margin-right: 140px;
+  margin-top: 70px;
+}
+#food-types {
+  background-image: url(../assets/backgrounds/foodsBg.jpg);
+  margin-top: 100px;
+  text-align: center;
+  height: 450px;
+}
+
+.drinks {
+  margin-top: 80px;
+  margin-left: 40px;
+}
+h5 {
+  margin-left: 500px;
+}
+.delic {
+  margin-left: 350px;
+}
+
+h2 {
+  width: 200px;
+  padding: 10px;
+}
+/*h3 {
+  background-color: #EB5315;
+  width: 277px;
+  padding: 45px;
+}*/
+h5 {
+  margin-left: 500px;
+}
+
+.btn-anita {
+  color: #fff;
+  background-color: #EB5315;
+  border-color: #EB5315;
+  text-decoration: none;
+  border-radius: 0px;
+  width: 150px;
+}
+
+#image-holder {
+  background: white;
+  margin-top: 5%;
+  margin-left: 10%;
+  width: 80%;
+}
+
+#image-overlay {
+  background: rgba(218, 220, 222, 0.82);
+  /*overflow: hidden;
+  height: 100%;
+  z-index: 2;
+  font-size: 35px;
+  text-align: center;
+  font-family: fantasy;*/
+}
+
+.grey-bg {
+  background: #c1bebe;
+  border-right: 1px solid black;
+}
+
+.zero-padding {
+  padding-right: 0px; 
+  padding-left: 0px;
+}
+
+.center {
+  text-align: center;
+}
+
+#customers {
+  height: 400px;
+  background: white;
+  text-align: center;
+}
+
+#customer-section {
+  margin-top: 5%;
+  margin-left: 100px;
+  margin-right: 100px;
+  box-shadow: 1px 1px 1px 1px #888888;
+  border-radius: 5px;
+}
+
+#happy-customers {
+  border-right: 1px solid #888888;
+  margin-top: 2%;
+}
+
+#img-border {
+  box-shadow: 1px 1px 1px 1px #888888;
+  border-radius: 5px;
+  border: 13px solid white
+}
+
+.redish {
+  color: #EB5315;
+}
+
+#subscribe-section {
+  height: 300px;
+  background-image: url(../assets/backgrounds/subscribe.jpg);
+  text-align: center;
+  color: white;
+}
+
+.margin-top {
+  margin-top: 5%;
+}
+
+#footer {
+  height: 300px;
+  background: #EB5315;
+  text-align: center;
+  color: white;
+}
+
+#menu-title {
+  font-size: 35px;
 }
